@@ -1,0 +1,152 @@
+/*个人中心公共*/
+.w{
+	background: #F5F5F5;
+}
+.w1200{
+	margin: 0 auto;
+}
+.mt190{
+	margin-top: 190px;
+}
+.zx-top{
+	width: 100%;
+	height: 320px;
+	background-image: url(../img/zx_back.jpg);
+	background-size: 100% 100%;
+}
+.top-personl{
+	padding: 10px 30px 0;
+	overflow: hidden;
+}
+.top-personl>.fl{
+	display: inline-block;
+	width: 104px;
+	height: 28px;
+	color: #fff;
+	font-size: 14px;
+	background: rgba(0,0,0,0.2);
+	text-align: center;
+	line-height: 28px;
+}
+.top-personl>.fl>i{
+	display: inline-block;
+	width: 18px;
+	height: 18px;
+	background: url(../img/icon_center_common.png) no-repeat -58px 0;
+	margin-bottom: -3px;
+	margin-right: 10px;
+}
+.top-personl>.fr{
+	display: inline-block;
+	width: 58px;
+	height: 28px;
+	background: url(../img/icon_center_common.png) no-repeat 0 0;
+}
+.bg-btn{
+	right: 107px;
+    top: 40px;
+	width: 104px;
+	height: 37px;
+	color: #333;
+	font-size: 12px;
+	line-height: 47px;
+	text-align: center;
+	background: url(../img/icon_center_common.png) no-repeat 0 -73px;
+}
+.bg-btn>i{
+	display: inline-block;
+	width: 14px;
+	height: 14px;
+	margin-right: 13px;
+	margin-bottom: -1px;
+	background: url(../img/icon_center_common.png) no-repeat -92px 0;
+}
+.top-msg,.personl-msg{
+	overflow: hidden;
+}
+.top-msg>li,.personl-msg>li{
+	float: left;
+	width: 125px;
+	color: #fff;
+	text-align: center;
+}
+.top-msg>li>h4,.personl-msg>li>h4{
+	font-size: 18px;
+}
+.top-msg>li>h5,.personl-msg>li>h5{
+	font-size: 12px;
+}
+.top-msg>b,.personl-msg>b{
+	display: inline-block;
+	width: 1px;
+	height: 30px;
+	background-color: #fff;
+	float: left;
+	margin-top: 5px;
+}
+.personl-name{
+	overflow: hidden;
+	text-align: center;
+}
+.personl-img{
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	background: rgba(255,255,255,0.2);
+	padding: 5px;
+	/*text-align: center;*/
+	margin: 0 auto;
+}
+.personl-img>img{
+	width: 110px;
+	height: 110px;
+	border-radius: 50%;
+}
+.personl-name>h4{
+	color: #FFFFFF;
+	font-size: 16px;
+	margin-top: 20px;
+}
+.personl-name>h5{
+	color: #FFFFFF;
+	font-size: 12px;
+	margin-top: 5px;
+}
+.subject-lf{
+	width: 200px;
+	background: #fff;
+}
+.subject-lf>h3{
+	font-size: 24px;
+	color: #F07C00;
+	text-align: center;
+	line-height: 24px;
+	padding: 11px 0 12px;
+	border-bottom: 1px solid #F5F5F5;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
