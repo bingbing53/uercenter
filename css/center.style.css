@@ -280,14 +280,34 @@ h2.msg-name{
 	margin-top: 20px;
 	margin-bottom: 245px;
 }
-.my-commen>span{
+/*1.2*/
+.my-commen>h2>span{
 	font-size: 14px;
 	color: #666;
-	line-height: 49px;
+	margin-right: 50px;
 }
-
-
-
+.my-commen>h2>span>i{
+	display: inline-block;
+	width: 8px;
+	height: 6px;
+	background: url(../img/icon_center_common.png) no-repeat -98px -61px;
+	margin-left: 10px;
+}
+.commen-list{
+	padding: 0 50px 0 30px;
+}
+.commen-list>li{
+	overflow: hidden;
+}
+.commen-list>li>img{
+	width: 70px;
+	height: 70px;
+	border-radius: 50%;
+	float: left;
+}
+.list-rg{
+	width: 810px;
+}
 
 
 
