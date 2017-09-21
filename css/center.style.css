@@ -3,7 +3,7 @@
 	background: #F5F5F5;
 }
 .w1200{
-	margin: 0 auto;
+	margin: 0 auto 0;
 }
 .mt190{
 	margin-top: 190px;
@@ -124,14 +124,98 @@
 	padding: 11px 0 12px;
 	border-bottom: 1px solid #F5F5F5;
 }
-
-
-
-
-
-
-
-
+.zx-contents>li{
+	border-bottom: 1px solid #F5F5F5;
+	padding-left: 30px;
+	padding-bottom: 18px;
+	padding-top: 20px;
+}
+.zx-contents>li>h2{
+	color: #333;
+	font-size: 16px;
+}
+.zx-contents>li>h2>i{
+	display: inline-block;
+}
+i.xiaoxi{	
+	width: 16px;
+	height: 15px;
+	margin-top: 3px;
+	background: url(../img/icon_center_common.png) no-repeat 0 -28px;
+}
+.zx-contents>li>h2>b{
+	display: inline-block;
+	width: 12px;
+	height: 6px;
+	background: url(../img/icon_center_common.png) no-repeat 0 -67px;
+}
+.zx-contents>li>h2>b.active{
+	background-position: 0 -61px ;
+}
+i.jiaoyi{	
+	width: 16px;
+	height: 16px;
+	margin-top: 3px;
+	background: url(../img/icon_center_common.png) no-repeat -16px -28px;
+}
+i.dingyue{	
+	width: 15px;
+	height: 17px;
+	margin-top: 3px;
+	background: url(../img/icon_center_common.png) no-repeat -32px -28px;
+	margin-right: 9px;
+}
+i.qianbao{	
+	width: 18px;
+	height: 14px;
+	margin-top: 3px;
+	background: url(../img/icon_center_common.png) no-repeat -47px -28px;
+	margin-right: 8px;
+}
+i.jifen{	
+	width: 17px;
+	height: 17px;
+	margin-top: 3px;
+	background: url(../img/icon_center_common.png) no-repeat -65px -28px;
+	margin-right: 9px;
+}
+i.youhui{	
+	width: 16px;
+	height: 16px;
+	margin-top: 3px;
+	background: url(../img/icon_center_common.png) no-repeat -82px -28px;
+}
+i.neirong{	
+	width: 16px;
+	height: 16px;
+	margin-top: 3px;
+	background: url(../img/icon_center_common.png) no-repeat 0 -45px;
+}
+i.zhanghu{	
+	width: 16px;
+	height: 16px;
+	margin-top: 3px;
+	background: url(../img/icon_center_common.png) no-repeat -16px -45px;
+}
+.two-list>li{
+	padding-left: 26px;
+	padding-top: 15px;
+}
+.two-list>li.active a{
+	color: #F07C00;
+}
+.two-list>li>a{
+	color: #666;
+	font-size: 14px;
+	line-height: 14px;
+}
+.two-list>li>a:hover{
+	color: #F07C00;
+}
+.zx-subject{
+	overflow: hidden;
+	margin-top: 50px;
+}
 
 
 
